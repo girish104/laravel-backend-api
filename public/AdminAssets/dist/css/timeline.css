@@ -1,0 +1,119 @@
+ .tt {
+    float: left;
+    margin-right: 5px;
+  }
+ #datepicker {
+        width: 25%;
+    margin-bottom: 20px;
+  }
+  .timeline>.time-label>span {
+    border-radius: 4px;
+    background-color: #fff;
+    display: inline-block;
+    font-weight: 600;
+    padding: 5px;
+}
+.timeline>div>.fa, .timeline>div>.fab, .timeline>div>.far, .timeline>div>.fas, .timeline>div>.glyphicon, .timeline>div>.ion {
+    background: #adb5bd;
+    border-radius: 50%;
+    font-size: 15px;
+    height: 30px;
+    left: 18px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 30px;
+}
+.timeline>div>.timeline-item {
+    box-shadow: 0 0 1px rgba(0,0,0,.125), 0 1px 3px rgba(0,0,0,.2);
+    border-radius: .25rem;
+    background: #fff;
+    color: #495057;
+    margin-left: 60px;
+    margin-right: 15px;
+    margin-top: 0;
+    padding: 0;
+    position: relative;
+}
+.timeline>div>.timeline-item>.timeline-header {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    color: #495057;
+    font-size: 16px;
+    line-height: 1.1;
+    margin: 0;
+    padding: 10px;
+}
+.timeline>div>.timeline-item>.timeline-body, .timeline>div>.timeline-item>.timeline-footer {
+    padding: 10px;
+}
+.timeline>div>.timeline-item>.time {
+    color: #999;
+    float: right;
+    font-size: 12px;
+    padding: 10px;
+}
+.timeline>div {
+    margin-bottom: 15px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.timeline>.time-label>span {
+    border-radius: 4px;
+    background-color: #fff;
+    display: inline-block;
+    font-weight: 600;
+    padding: 5px;
+}
+.bg-red, .bg-red>a {
+    color: #fff!important;
+}
+.bg-red {
+    background-color: #dc3545!important;
+}
+.timeline>div>.timeline-item>.timeline-header>a {
+    font-weight: 600;
+}
+.timeline>div>.timeline-item>.timeline-footer>a {
+    color: #fff;
+}
+.bg-blue, .bg-blue>a {
+    color: #fff!important;
+}
+.bg-blue {
+    background-color: #007bff!important;
+}
+.bg-green {
+    background-color: #28a745!important;
+}
+.bg-green, .bg-green>a {
+    color: #fff!important;
+}
+.bg-yellow, .bg-yellow>a {
+    color: #1f2d3d!important;
+}
+.bg-yellow {
+    background-color: #ffc107!important;
+}
+.bg-purple, .bg-purple>a {
+    color: #fff!important;
+}
+.bg-purple {
+    background-color: #6f42c1!important;
+}
+
+.bg-gray {
+    background-color: #adb5bd;
+    color: #1f2d3d;
+}
+.bg-gray, .bg-gray>a {
+    color: #fff!important;
+}
+
+.bg-maroon, .bg-maroon>a {
+    color: #fff!important;
+}
+.bg-maroon {
+    background-color: #d81b60!important;
+}
