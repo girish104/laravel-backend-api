@@ -64,7 +64,7 @@ Hasta La Vista Backend API is a Laravel-based back-end dashboard system designed
     php artisan migrate
     ```
 
-8.. Seed the database with initial data (optional):
+8. Seed the database with initial data (optional):
 
     ```bash
     php artisan db:seed
